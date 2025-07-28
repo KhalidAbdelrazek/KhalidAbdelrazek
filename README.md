@@ -18,7 +18,7 @@ Driven by curiosity and continuous learning, I’m always exploring new technolo
 - 🌱 Constantly learning **Flutter**, **Firebase**, **Clean Architecture**, **BLoC**, and **REST APIs**  
 - 💬 Ask me about **Flutter**, **Mobile App Development**, **Embedded Systems**, and **IoT Integrations**  
 - 📫 Reach me at **khalidabdelrazk4@gmail.com**  
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1taIWZ9LzwLCLE_zqMCAHOHMu3YPpjk2k/view?usp=sharing)  
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1u8CcOJJEac71DqVNxPSARTwBhJOY6i3F/view?usp=sharing)  
 
 ---
 
