@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Abdelrazk</h1>
-<h3 align="center">Flutter Developer | Data Analyst | Data Science Enthusiast</h3>
+<h3 align="center">Flutter Developer | Data Analyst | Data Engineering Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhalidAbdelrazek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -12,7 +12,7 @@
 I’m a **Flutter Developer** and **Data Analyst** with 1+ year of experience building cross-platform mobile apps and analyzing complex datasets to deliver actionable insights.  
 I have completed multiple projects from development to deployment, improving efficiency and user experience.  
 
-- 🔭 Currently an **Android Development Intern at Saiket Systems**  
+- 🔭 Currently an **Data Engineering Intern at DEPI**  
 - 📱 Building Flutter apps with Firebase, REST API integration, and clean architecture  
 - 📊 Working on **Data Analysis & Data Science projects** using Python, SQL, Excel, and Power BI  
 - 🌱 Learning advanced **Flutter patterns**, **BLoC**, **REST APIs**, and **data visualization**  
