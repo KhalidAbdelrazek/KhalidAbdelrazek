@@ -18,7 +18,7 @@ I have completed multiple projects from development to deployment, improving eff
 - 🌱 Learning advanced **Flutter patterns**, **BLoC**, **REST APIs**, and **data visualization**  
 - 💬 Ask me about **Flutter Development**, **Data Analysis**, and **Data Science**  
 - 📫 Reach me at: **[khalidabdelrazk4@gmail.com](mailto:khalidabdelrazk4@gmail.com)**  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1u8CcOJJEac71DqVNxPSARTwBhJOY6i3F/view?usp=sharing)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1xTIMbHZeORU_mT_xuEVxSOE8_IPswiq8/view?usp=sharing)  
 
 ---
 
